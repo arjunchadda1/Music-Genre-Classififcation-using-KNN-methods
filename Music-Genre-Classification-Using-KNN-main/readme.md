@@ -6,7 +6,7 @@ Music genre classification is a task that categorizes audio samples into predefi
 
 ### 📁 Dataset
 
-The project uses the GTZAN Dataset from [Kaggle](https://kaggle.com), which includes:
+The project uses the GTZAN Dataset from [Kaggle](https://kaggle.com), which includes::
 
 + Genres: Blues, Classical, Country, Disco, Hip-hop, Jazz, Metal, Pop, Reggae, and Rock.
 + Audio files: 1,000 .wav files (100 files per genre).
