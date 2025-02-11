@@ -2,7 +2,7 @@
 This project uses K-Nearest Neighbors (KNN) to classify music genres, leveraging the GTZAN Dataset from Kaggle. The goal is to explore the effectiveness of KNN in genre classification using extracted audio features.
 
 ### Project Overview
-Music genre classification is a task that categorizes audio samples into predefined genres. This project uses KNN, a simple yet powerful instance-based learning algorithm, to classify tracks based on feature vectors derived from audio data.
+Music genre classification is a task that categorizes audio samples into predefined genres. This project uses KNN, a simple yet powerful instance-based learning algorithm, to classify tracks based on feature vectors derived from audio data
 
 ### 📁 Dataset
 
